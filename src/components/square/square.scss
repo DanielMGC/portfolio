@@ -1,0 +1,55 @@
+.square{
+  height: calc(33% - 20px);
+  aspect-ratio: 1/1;
+  background-color: #000;
+  margin: 10px;
+  padding: 1px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.sql1{
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  padding: 1px;
+}
+
+.sql2{
+  width: 100%;
+  height: 100%;
+  background-color: #00A2E8;
+  padding: 5px;
+}
+
+.selected .sql2{
+  background-color: #cfe63d;
+}
+
+.sql3{
+  width: 100%;
+  height: 100%;
+  background-color: #3F48CC;
+  padding: 2px;
+}
+.selected .sql3{
+  background-color: #dabc26;
+}
+
+.sql4{
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  padding: 1px;
+}
+
+.div-image{
+  width: 100%;
+  height: 100%;
+  background-color: #15064b;
+}
+
+.div-image img{
+  width: 100%;
+  height: 100%;
+}
