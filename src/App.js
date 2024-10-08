@@ -26,8 +26,8 @@ export default function Board() {
     ">>open interactive exercise",
     ">>go to apps"];
 
-  const links = ["files/daniel-moises-gonzalez-clua-english-cv.pdf", 
-    "files/daniel-moises-gonzalez-clua-cv-francais.pdf", 
+  const links = ["https://raw.githubusercontent.com/DanielMGC/portfolio/refs/heads/main/src/files/daniel-moises-gonzalez-clua-english-cv.pdf", 
+    "https://raw.githubusercontent.com/DanielMGC/portfolio/refs/heads/main/src/files/daniel-moises-gonzalez-clua-cv-francais.pdf", 
     "https://github.com/DanielMGC?tab=repositories",
     "https://speed-game-vert.vercel.app/speed",
     "",
