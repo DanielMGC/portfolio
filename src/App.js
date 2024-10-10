@@ -12,8 +12,8 @@ export default function Board() {
     "Small web-based game where the goal is to find the correct emoji the most number of times in 1 minute. Made with Angular.",
     "Hi! Welcome to my portfolio, where you can look at some of my creations including code, art, design and editing skills (starting with the page itself, made with React).",
     "My Vimeo channel with some videos I created, showcasing a bit of editing and animation skills (had to use Vimeo because of some songs I used, which Youtube doesn't like too much).",
-    "An interactive exercise in the area of ultrasonic damage inspection. Made with Three.js (3D graphics JavaScript library).",
-    "Another interactive exercise in the area of ultrasonic damage inspection, this one made with JavaScript and CSS manipulation.",
+    "An interactive exercise in the area of ultrasonic damage inspection. Made with Three.js (3D graphics JavaScript library). Made for desktop, so won`t work properly on mobile devices.",
+    "Another interactive exercise in the area of ultrasonic damage inspection, this one made with JavaScript and CSS manipulation. Made for desktop, so won`t work properly on mobile devices.",
     "Google Play page with a couple of Android apps I developed using Flutter. They're simple information apps made by demand, but showcase some of my app developing skills."];
 
   const linkTexts = [">>open file", 
